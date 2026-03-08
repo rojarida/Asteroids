@@ -26,9 +26,8 @@ uv run main.py
 
 ## Controls
 
-`UP_ARROW`: Move forward
-`DOWN_ARROW`: Move backward
-`LEFT_ARROW`: Rotate left
-`RIGHT_ARROW`: Rotate right
-`SPACEBAR`: Shoot projectile
-
+- `UP_ARROW`: Move forward
+- `DOWN_ARROW`: Move backward
+- `LEFT_ARROW`: Rotate left
+- `RIGHT_ARROW`: Rotate right
+- `SPACEBAR`: Shoot projectile
