@@ -1,6 +1,6 @@
 # Asteroids
 
-Just a simple Asteroids Ggame
+Just a simple Asteroids game
 
 ## Setup
 
